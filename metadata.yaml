@@ -1,5 +1,8 @@
 _repo: Two-Women-1862-a-Poem_54017
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54017-h/images/cover.jpg
 creator:
   author:
     agent_name: Woolson, Constance Fenimore
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2041
     wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54017#Two-Women-1862-a-Poem
 gutenberg_issued: '2017-01-23'
 gutenberg_type: Text
 identifiers:
